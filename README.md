@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aashishvardhanp" target="blank"><img src="https://img.shields.io/twitter/follow/aashishvardhanp?logo=twitter&style=for-the-badge" alt="aashishvardhanp" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
 
 - 🌱 I’m currently learning **Data Science**
  
