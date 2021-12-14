@@ -13,7 +13,7 @@
  
 - 👨‍💻 Check my portfolio at [https://aashishvardhan.github.io](https://aashishvardhan.github.io)
  
-- 💬 Ask me about **python and its libraries**
+- 💬 Checkout my personal GitHub Profile: [https://github.com/aashishvardhan1](https://github.com/aashishvardhan1)
 
 - 📫 How to reach me **aashishvardhanp@gmail.com**
 
