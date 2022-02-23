@@ -15,7 +15,7 @@
  
 - 💬 Checkout my personal GitHub Profile: [https://github.com/aashishvardhan1](https://github.com/aashishvardhan1)
 
-- 📫 How to reach me **aashishvardhanp@gmail.com**
+- 📫 Reach me at **aashishvardhanp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
