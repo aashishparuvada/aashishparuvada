@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aashish Vardhan</h1>
 <h3 align="center">An Enthusiast about new Tech!</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishvardhan&label=Profile%20views&color=0e75b6&style=flat" alt="aashishvardhan"/> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishvardhan&label=Profile%20views&color=0e75b6&style=flat" alt="aashishvardhan"/> </p>
 
 <p align="left"> <a href="https://twitter.com/aashishvardhanp" target="blank"><img src="https://img.shields.io/twitter/follow/aashishvardhanp?logo=twitter&style=for-the-badge" alt="aashishvardhanp"/></a> </p>
 
