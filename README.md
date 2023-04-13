@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D16AQFN_DZw2s2KGg/profile-displaybackgroundimage-shrink_350_1400/0/1668422196383?e=1680134400&v=beta&t=TJBI3sUIoDt3ZuX1wtUdZMWRFzJJU4OnRCbZtPqI4BE)](https://aashishvardhan.blogspot.com)
+[![MasterHead](https://media.licdn.com/dms/image/C4D16AQFN_DZw2s2KGg/profile-displaybackgroundimage-shrink_350_1400/0/1668422196383?e=1686787200&v=beta&t=lOvljHgbRuOjBo_4mF1Aci6BgKWTXd3fhD5BHZwvijI)](https://aashishvardhan.blogspot.com)
 
 <h1 align="center">Hi 👋, I'm Aashish Vardhan</h1>
 <h3 align="center">An Enthusiast about new Tech!</h3>
