@@ -9,7 +9,7 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Machine Leaarning**
  
 - 👨‍💻 Check my portfolio at [https://aashishvardhan.github.io](https://aashishvardhan.github.io)
  
