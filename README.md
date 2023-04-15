@@ -24,6 +24,5 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aashishvardhan&icon=3&color=9)](https://visitcount.itsvg.in)
 
 <!-- Crafted using GPRM ( https://gprm.itsvg.in ) By Aashish -->
