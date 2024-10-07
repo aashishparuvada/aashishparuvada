@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhsbvisualz.com%2Fblog%2Ftoronto-linkedin-banner&psig=AOvVaw1QQfhpTjYhH1tM0hrSb4dU&ust=1728370616610000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCDvbvY-4gDFQAAAAAdAAAAABAE)](https://aashishparuvada.github.io)
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/5fcd81855895864d895087ac/1d638737-e8ad-448b-b35a-df7aff29cba2/Toronto-linkedin-banner+%281%29.jpg)](https://aashishparuvada.github.io)
 
 # 💫 About Me:
 🔭 Data Scientist at Fospha
