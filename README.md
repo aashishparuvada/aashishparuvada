@@ -1,7 +1,7 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/5fcd81855895864d895087ac/1d638737-e8ad-448b-b35a-df7aff29cba2/Toronto-linkedin-banner+%281%29.jpg)](https://aashishparuvada.github.io)
 
 # 💫 About Me:
-🔭 Data Scientist at Fospha
+🔭 Data Scientist
 Interested in Product Management
 
 ## 🌐 Socials:
