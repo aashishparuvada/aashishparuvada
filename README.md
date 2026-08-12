@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-I’m [**Aashish**](https://aashishparuvada.me), a data scientist and I like building products that actually solve real problems.(Even though they are small)
+I’m [**Aashish**](https://aashishparuvada.co.uk), a data scientist and I like building products that actually solve real problems.(Even though they are small)
 
 Most of my work lives around:
 - 🧠 Machine Learning, GenAI & LLM-based systems  
