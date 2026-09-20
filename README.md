@@ -2,13 +2,9 @@
 
 I’m [**Aashish**](https://aashishparuvada.co.uk), a data scientist and I like building products that actually solve real problems.(Even though they are small)
 
-Most of my work lives around:
-- 🧠 Machine Learning, GenAI & LLM-based systems  
-- 🐍 Python, data pipelines, and backend logic  
-- ☁️ Cloud (mostly AWS) and production-ready systems  
-- 📦 Product thinking - not just models, but *why* they exist  
+Check my MacOS apps at [**theysap.**](https://theysap.com)
 
-I’ve worked across **data science, product, and customer-facing roles**, which helps me think end-to-end from problem discovery to shipping solutions.
+I’ve worked across **data science, engineering and products**, which helps me think end-to-end from problem discovery to shipping solutions.
 
 Currently exploring:
 - Scalable products 
