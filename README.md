@@ -2,7 +2,7 @@
 
 I’m [**Aashish**](https://aashishparuvada.co.uk), a data scientist and I like building products that actually solve real problems.(Even though they are small)
 
-Check my MacOS apps at [**theysap.**](https://theysap.com)
+Check my MacOS apps and Chrome Extensions at [**theysap.**](https://theysap.com)
 
 I’ve worked across **data science, engineering and products**, which helps me think end-to-end from problem discovery to shipping solutions.
 
